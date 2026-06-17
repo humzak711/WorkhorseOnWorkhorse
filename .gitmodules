@@ -1,0 +1,4 @@
+[submodule "host"]
+	path = WorkhorseRT
+	url = https://github.com/humzak711/WorkhorseRT
+	branch = ia32e_vt-x
