@@ -2,3 +2,7 @@
 	path = WorkhorseRT
 	url = https://github.com/humzak711/WorkhorseRT
 	branch = ia32e_vt-x
+[submodule "guest"]
+	path = guest
+	url = https://github.com/humzak711/WorkhorseRT
+	branch = WorkhorseOnWorkhorse
