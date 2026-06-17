@@ -7,3 +7,7 @@ PoC of Workhorse running on itself inside a vm to demonstrate its virtualization
 ```sh
 bash run.sh
 ```
+
+---
+![alt text](<assets/Screenshot From 2026-06-17 04-55-16.png>)
+--
