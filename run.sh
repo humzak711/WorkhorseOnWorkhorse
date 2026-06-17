@@ -6,7 +6,7 @@ bash setupPlugins.sh
 
 cd guest
 bash config.sh genconfig
-mkdir build
+mkdir -p build
 cd build
 cmake ..
 make
@@ -16,7 +16,7 @@ python3 premap.py
 
 cd WorkhorseRT
 bash config.sh genconfig
-mkdir build
+mkdir -p build
 cd build
 cmake ..
 make runKvm
